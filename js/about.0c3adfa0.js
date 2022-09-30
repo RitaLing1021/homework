@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwork"]=self["webpackChunkwork"]||[]).push([[443],{4190:function(n,r,o){o.r(r),o.d(r,{default:function(){return f}});var t=o(3396);const u={class:"about"},a=(0,t._)("h1",null,"This is an about page",-1);function s(n,r,o,s,e,c){const i=(0,t.up)("Board");return(0,t.wg)(),(0,t.iD)("div",u,[a,(0,t.Wm)(i)])}var e=o(242),c={components:{Board:e.Z}},i=o(89);const d=(0,i.Z)(c,[["render",s]]);var f=d}}]);
+//# sourceMappingURL=about.0c3adfa0.js.map
